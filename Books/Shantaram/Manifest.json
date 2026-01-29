@@ -1,0 +1,92 @@
+{
+  "bookId": "shantaram",
+  "manifestVersion": 1,
+  "segments": [
+    {
+      "id": "seg-01",
+      "index": 1,
+      "audioUrl": "https://drive.google.com/uc?id=1vAwo-xFfkwPZeHRsOQxG5-ikQ6deaIRJ",
+      "type": "content"
+    },
+    {
+      "id": "seg-02",
+      "index": 2,
+      "audioUrl": "https://drive.google.com/uc?id=1iF_JTPVb1tvxk4hxduTUw2tRrVKmXEbU",
+      "type": "content"
+    },
+    {
+      "id": "seg-03",
+      "index": 3,
+      "audioUrl": "https://drive.google.com/uc?id=1I1FEljfLWPTysIGVyVxUQ7EkNtmWTFLv",
+      "type": "content"
+    }
+  ],
+  "summaries": [
+    {
+      "id": "summary-ru-RU-normal-01",
+      "audioUrl": "https://drive.google.com/uc?id=1W-Q7qCqKHEcO8nrH8x4WFs2Kc4tmygUn",
+      "goesAfterSegment": "seg-01",
+      "cadence": 1,
+      "language": "ru-RU",
+      "type": "summary"
+    },
+    {
+      "id": "summary-ru-RU-normal-02",
+      "audioUrl": "https://drive.google.com/uc?id=1kyn5VJHAIXiByuGKwLhnkq_7oNuE1Tc3",
+      "goesAfterSegment": "seg-02",
+      "cadence": 1,
+      "language": "ru-RU",
+      "type": "summary"
+    },
+    {
+      "id": "summary-ru-RU-normal-03",
+      "audioUrl": "https://drive.google.com/uc?id=1rbURSsSTpuu4fpy5uwGHvjmuAdIc36WT",
+      "goesAfterSegment": "seg-03",
+      "cadence": 1,
+      "language": "ru-RU",
+      "type": "summary"
+    },
+
+    {
+      "id": "summary-pt-BR-normal-01",
+      "audioUrl": "https://drive.google.com/uc?id=1grojvVb-PsU0Rz0ZPysgwhCwsTzycoBx",
+      "goesAfterSegment": "seg-01",
+      "cadence": 1,
+      "language": "pt-BR",
+      "type": "summary"
+    },
+    {
+      "id": "summary-pt-BR-normal-02",
+      "audioUrl": "https://drive.google.com/uc?id=1g41KvvDj6phRFhj2-9FhHwYVWywjb6-G",
+      "goesAfterSegment": "seg-02",
+      "cadence": 1,
+      "language": "pt-BR",
+      "type": "summary"
+    },
+    {
+      "id": "summary-pt-BR-normal-03",
+      "audioUrl": "https://drive.google.com/uc?id=1IHOor5NTOLrD0zjI7JVNdStidmNRaLxR",
+      "goesAfterSegment": "seg-03",
+      "cadence": 1,
+      "language": "pt-BR",
+      "type": "summary"
+    },
+
+    {
+      "id": "summary-ru-RU-rare-01",
+      "audioUrl": "https://drive.google.com/uc?id=1QNgTj9MuqmnyxpLxshCY5qt4WGql4I_z",
+      "goesAfterSegment": "seg-02",
+      "cadence": 3,
+      "language": "ru-RU",
+      "type": "summary"
+    },
+    {
+      "id": "summary-pt-BR-rare-01",
+      "audioUrl": "https://drive.google.com/uc?id=1-2OBNRAwJf_KCjV3Vi-LnK6azj5zYECN",
+      "goesAfterSegment": "seg-02",
+      "cadence": 3,
+      "language": "pt-BR",
+      "type": "summary"
+    }
+  ]
+}
