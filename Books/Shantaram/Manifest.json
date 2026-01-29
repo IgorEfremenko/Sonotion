@@ -5,26 +5,26 @@
     {
       "id": "seg-01",
       "index": 1,
-      "audioUrl": "https://drive.google.com/uc?id=1vAwo-xFfkwPZeHRsOQxG5-ikQ6deaIRJ",
+      "audioUrl": "https://github.com/IgorEfremenko/Sonotion/raw/refs/heads/main/Books/Shantaram/Audio/EN-1.mp3",
       "type": "content"
     },
     {
       "id": "seg-02",
       "index": 2,
-      "audioUrl": "https://drive.google.com/uc?id=1iF_JTPVb1tvxk4hxduTUw2tRrVKmXEbU",
+      "audioUrl": "https://github.com/IgorEfremenko/Sonotion/raw/refs/heads/main/Books/Shantaram/Audio/EN-2.mp3",
       "type": "content"
     },
     {
       "id": "seg-03",
       "index": 3,
-      "audioUrl": "https://drive.google.com/uc?id=1I1FEljfLWPTysIGVyVxUQ7EkNtmWTFLv",
+      "audioUrl": "https://github.com/IgorEfremenko/Sonotion/raw/refs/heads/main/Books/Shantaram/Audio/EN-3.mp3",
       "type": "content"
     }
   ],
   "summaries": [
     {
       "id": "summary-ru-RU-normal-01",
-      "audioUrl": "https://drive.google.com/uc?id=1W-Q7qCqKHEcO8nrH8x4WFs2Kc4tmygUn",
+      "audioUrl": "https://github.com/IgorEfremenko/Sonotion/raw/refs/heads/main/Books/Shantaram/Summaries/RU-RU-1-1.mp3",
       "goesAfterSegment": "seg-01",
       "cadence": 1,
       "language": "ru-RU",
@@ -32,7 +32,7 @@
     },
     {
       "id": "summary-ru-RU-normal-02",
-      "audioUrl": "https://drive.google.com/uc?id=1kyn5VJHAIXiByuGKwLhnkq_7oNuE1Tc3",
+      "audioUrl": "https://github.com/IgorEfremenko/Sonotion/raw/refs/heads/main/Books/Shantaram/Summaries/RU-RU-1-2.mp3",
       "goesAfterSegment": "seg-02",
       "cadence": 1,
       "language": "ru-RU",
@@ -40,7 +40,7 @@
     },
     {
       "id": "summary-ru-RU-normal-03",
-      "audioUrl": "https://drive.google.com/uc?id=1rbURSsSTpuu4fpy5uwGHvjmuAdIc36WT",
+      "audioUrl": "https://github.com/IgorEfremenko/Sonotion/raw/refs/heads/main/Books/Shantaram/Summaries/RU-RU-1-3.mp3",
       "goesAfterSegment": "seg-03",
       "cadence": 1,
       "language": "ru-RU",
@@ -49,7 +49,7 @@
 
     {
       "id": "summary-pt-BR-normal-01",
-      "audioUrl": "https://drive.google.com/uc?id=1grojvVb-PsU0Rz0ZPysgwhCwsTzycoBx",
+      "audioUrl": "https://github.com/IgorEfremenko/Sonotion/raw/refs/heads/main/Books/Shantaram/Summaries/PT-BR-1-1.mp3",
       "goesAfterSegment": "seg-01",
       "cadence": 1,
       "language": "pt-BR",
@@ -57,7 +57,7 @@
     },
     {
       "id": "summary-pt-BR-normal-02",
-      "audioUrl": "https://drive.google.com/uc?id=1g41KvvDj6phRFhj2-9FhHwYVWywjb6-G",
+      "audioUrl": "https://github.com/IgorEfremenko/Sonotion/raw/refs/heads/main/Books/Shantaram/Summaries/PT-BR-1-2.mp3",
       "goesAfterSegment": "seg-02",
       "cadence": 1,
       "language": "pt-BR",
@@ -65,7 +65,7 @@
     },
     {
       "id": "summary-pt-BR-normal-03",
-      "audioUrl": "https://drive.google.com/uc?id=1IHOor5NTOLrD0zjI7JVNdStidmNRaLxR",
+      "audioUrl": "https://github.com/IgorEfremenko/Sonotion/raw/refs/heads/main/Books/Shantaram/Summaries/PT-BR-1-3.mp3",
       "goesAfterSegment": "seg-03",
       "cadence": 1,
       "language": "pt-BR",
@@ -74,7 +74,7 @@
 
     {
       "id": "summary-ru-RU-rare-01",
-      "audioUrl": "https://drive.google.com/uc?id=1QNgTj9MuqmnyxpLxshCY5qt4WGql4I_z",
+      "audioUrl": "https://github.com/IgorEfremenko/Sonotion/raw/refs/heads/main/Books/Shantaram/Summaries/RU-RU-3-2.mp3",
       "goesAfterSegment": "seg-02",
       "cadence": 3,
       "language": "ru-RU",
@@ -82,7 +82,7 @@
     },
     {
       "id": "summary-pt-BR-rare-01",
-      "audioUrl": "https://drive.google.com/uc?id=1-2OBNRAwJf_KCjV3Vi-LnK6azj5zYECN",
+      "audioUrl": "https://github.com/IgorEfremenko/Sonotion/raw/refs/heads/main/Books/Shantaram/Summaries/PT-BR-3-2.mp3",
       "goesAfterSegment": "seg-02",
       "cadence": 3,
       "language": "pt-BR",
